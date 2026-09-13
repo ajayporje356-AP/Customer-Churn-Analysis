@@ -10,7 +10,7 @@ Developed an end-to-end data analytics workflow to identify the root causes of c
 * **Power BI:** Interactive dashboarding, DAX measure creation, and UI/UX design.
 
 ### 📈 Final Dashboard
-*(Note: To insert your dashboard image here, drag and drop your dashboard screenshot file directly into this edit window, and GitHub will automatically generate the code for it!)*
+* <img width="1177" height="722" alt="Customer_Churn_Project" src="https://github.com/user-attachments/assets/1e452623-2bf3-4392-aedb-84fbd79a340c" />
 
 ### 💡 Key Business Insights
 * **The Month-to-Month Bleed:** Month-to-month contracts account for ~87% of total lost revenue, costing the business over $120,000 monthly.
@@ -20,4 +20,4 @@ Developed an end-to-end data analytics workflow to identify the root causes of c
 ### 🚀 Strategic Recommendations
 * Target active Month-to-month Fiber Optic users with heavily incentivized upgrades to lock them into 1-year contracts, drastically reducing the monthly revenue drain.
 * Implement aggressive onboarding and customer success check-ins during the critical first 12 months to build early loyalty.
-* <img width="1177" height="722" alt="Customer_Churn_Project" src="https://github.com/user-attachments/assets/1e452623-2bf3-4392-aedb-84fbd79a340c" />
+
